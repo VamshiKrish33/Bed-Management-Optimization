@@ -26,6 +26,8 @@ Hospital bed management is a critical aspect of healthcare administration. Effic
 
 The project includes a comprehensive research paper that delves into the theoretical foundations, literature review, methodology, and findings. This paper serves as a valuable resource for understanding the context, challenges, and solutions related to bed management optimization.
 
+https://presidencyuniversity.in/wp-content/uploads/2023/11/NCRACIT-2023.pdf
+
 #### Awards and Recognition
 The research paper associated with this project has been recognized and awarded for its contribution to the field. The acknowledgment serves as a testament to the quality and significance of the research conducted during the project.
 ![PHOTO-2023-06-20-15-32-29 3](https://github.com/VamshiKrish33/Bed-Management-Optimization/assets/118671351/d843d489-6645-4792-8b59-4dd8f6b4d4a3)
