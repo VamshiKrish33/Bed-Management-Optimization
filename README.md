@@ -28,6 +28,9 @@ The project includes a comprehensive research paper that delves into the theoret
 
 #### Awards and Recognition
 The research paper associated with this project has been recognized and awarded for its contribution to the field. The acknowledgment serves as a testament to the quality and significance of the research conducted during the project.
+![PHOTO-2023-06-20-15-32-29 3](https://github.com/VamshiKrish33/Bed-Management-Optimization/assets/118671351/d843d489-6645-4792-8b59-4dd8f6b4d4a3)
+![PHOTO-2023-06-20-15-32-29](https://github.com/VamshiKrish33/Bed-Management-Optimization/assets/118671351/865c9716-1f72-4120-ab83-45a7efeb18a1)
+
 
 ### 2. Project Report
 
