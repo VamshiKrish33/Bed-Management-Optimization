@@ -26,6 +26,9 @@ Hospital bed management is a critical aspect of healthcare administration. Effic
 
 The project includes a comprehensive research paper that delves into the theoretical foundations, literature review, methodology, and findings. This paper serves as a valuable resource for understanding the context, challenges, and solutions related to bed management optimization.
 
+#### Awards and Recognition
+The research paper associated with this project has been recognized and awarded for its contribution to the field. The acknowledgment serves as a testament to the quality and significance of the research conducted during the project.
+
 ### 2. Project Report
 
 The project report documents the practical implementation of the bed management optimization system. It includes details about the software architecture, algorithms employed, challenges faced, and the overall impact on hospital operations.
